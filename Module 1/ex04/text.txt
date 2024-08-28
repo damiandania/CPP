@@ -1,0 +1,26 @@
+Create a program that takes three parameters in the following order: a filename and
+two strings, s1 and s2.
+It will open the file <filename> and copies its content into a new file
+<filename>.replace, replacing every occurrence of s1 with s2.
+Using C file manipulation functions is forbidden and will be considered cheating. All
+the member functions of the class std::string are allowed, except replace. Use them
+wisely!
+Of course, handle unexpected inputs and errors. You have to create and turn in your
+own tests to ensure your program works as expected.
+
+Do you know Harl? We all do, do we? In case you don’t, find below the kind of
+comments Harl makes. They are classified by levels:
+• "DEBUG" level: Debug messages contain contextual information. They are mostly
+used for problem diagnosis.
+Example: "I love having extra bacon for my 7XL-double-cheese-triple-pickle-specialketchup burger. I really do!"
+• "INFO" level: These messages contain extensive information. They are helpful for
+tracing program execution in a production environment.
+Example: "I cannot believe adding extra bacon costs more money. You didn’t put
+enough bacon in my burger! If you did, I wouldn’t be asking for more!"
+• "WARNING" level: Warning messages indicate a potential issue in the system.
+However, it can be handled or ignored.
+Example: "I think I deserve to have some extra bacon for free. I’ve been coming for
+years whereas you started working here since last month."
+• "ERROR" level: These messages indicate an unrecoverable error has occurred.
+This is usually a critical issue that requires manual intervention.
+Example: "This is unacceptable! I want to speak to the manager now."
