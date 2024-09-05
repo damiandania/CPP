@@ -3,7 +3,7 @@
 	alt="Project pic" width="150" height="150"/>
 </p>
 
-# CPP
+# CPP ©️➕➕
 
 This repository contains a collection of C++ projects organized into modules. Each module focuses on different aspects of C++ programming, ranging from basic concepts to more advanced topics. The projects are structured to provide a comprehensive learning experience and practical coding exercises.
 
